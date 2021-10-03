@@ -1,3 +1,8 @@
 Totally different content to merge later
 Content to append
+<<<<<<< HEAD
 Totally different content to merge later for 2nd time in the branch feature
+=======
+Totally different content to merge later for 2nd time
+>>>>>>> new_branch_to_merge_later
+Totally different content to merge later for 2nd time
